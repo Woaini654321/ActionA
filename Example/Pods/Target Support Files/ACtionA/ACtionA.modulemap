@@ -1,0 +1,6 @@
+framework module ACtionA {
+  umbrella header "ACtionA-umbrella.h"
+
+  export *
+  module * { export * }
+}
